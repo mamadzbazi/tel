@@ -1,0 +1,20 @@
+{
+    "1291477413": {
+        "is_register": true,
+        "step": "dashboard",
+        "temp": "",
+        "shiba": 20000,
+        "myrefs": 1,
+        "channel": true,
+        "ref": 1291477413
+    },
+    "1394635425": {
+        "is_register": true,
+        "step": "dashboard",
+        "temp": "",
+        "shiba": 0,
+        "myrefs": 0,
+        "channel": true,
+        "ref": 1291477413
+    }
+}
